@@ -1,11 +1,6 @@
-
-
-[UI elements _Vishnu das.pdf](https://github.com/vishnudasTW/Commonly-used-UI-elements/files/10402187/UI.elements._Vishnu.das.pdf)
-
-
 # Common UI Elements
 ## But, you may not be knowing the names!
-
+________________________________________________________________________________________________________________________________________
 
 We explore a variety of websites, apps, and other user interfaces every day. However, it may be sometimes challenging for techies and novice UI/UX designers to recognize and name some commonly used UI elements. Here I am sharing few often-used UI elements, which you may identify for sure, but may not be able to name correctly. Give a thumbs-up if you like the post! 
  
@@ -27,3 +22,5 @@ We explore a variety of websites, apps, and other user interfaces every day. How
 ![9](https://user-images.githubusercontent.com/92569350/212086020-e92560b1-ebe2-4280-a09a-1fd07b4a529d.jpg)
 ![10](https://user-images.githubusercontent.com/92569350/212086030-e7291280-0297-41b7-a756-f9feba028b4e.jpg)
 
+Download the PDF here:
+[UI elements _Vishnu das.pdf](https://github.com/vishnudasTW/Commonly-used-UI-elements/files/10402187/UI.elements._Vishnu.das.pdf)
